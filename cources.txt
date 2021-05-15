@@ -4,5 +4,9 @@ c
 cpp
 learn the basic languages
 
+ml languages
+python
+perl
+
 java
 thank ypu
